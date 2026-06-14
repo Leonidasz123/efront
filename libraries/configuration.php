@@ -5,15 +5,15 @@ if (str_replace(DIRECTORY_SEPARATOR, "/", __FILE__) == $_SERVER['SCRIPT_FILENAME
 }
 
 /** The database Host */
-define('G_DBTYPE', 'mysql');
+define('G_DBTYPE', 'mysqli');
 /** The database Host */
 define('G_DBHOST', 'localhost');
 /** The database user*/
 define('G_DBUSER', 'root');
 /** The database user password*/
-define('G_DBPASSWD', 'solaris');
+define('G_DBPASSWD', '');
 /** The database name*/
-define('G_DBNAME', 'efront');
+define('G_DBNAME', 'efront_local');
 /** The database tables prefix*/
 define('G_DBPREFIX', '');
 
