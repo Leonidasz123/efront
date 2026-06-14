@@ -11,7 +11,7 @@ define('G_DBHOST', 'localhost');
 /** The database user*/
 define('G_DBUSER', 'root');
 /** The database user password*/
-define('G_DBPASSWD', '');
+define('G_DBPASSWD','');
 /** The database name*/
 define('G_DBNAME', 'efront');
 /** The database tables prefix*/
