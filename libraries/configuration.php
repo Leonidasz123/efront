@@ -13,7 +13,7 @@ define('G_DBUSER', 'root');
 /** The database user password*/
 define('G_DBPASSWD', '');
 /** The database name*/
-define('G_DBNAME', 'efront_local');
+define('G_DBNAME', 'efront');
 /** The database tables prefix*/
 define('G_DBPREFIX', '');
 
